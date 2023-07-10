@@ -155,7 +155,8 @@ ul li a:hover {
 }
 
 #social-links a:hover {
-    background: var(--highlight-color)
+    background: var(--highlight-color);
+    transition: .4s;
 }
 
 footer {
