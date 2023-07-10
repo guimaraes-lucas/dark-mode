@@ -24,7 +24,7 @@
 
 ## Layouts
 
-Pode ser visualizado [Aqui] (https://www.figma.com/file/RpDiEjwoaefgddt3pKkg6Z/DevLinks-•-Projeto-Discover-(Community)?node-id=10%3A620&mode=dev)
+Pode ser visualizado [Aqui](https://www.figma.com/file/RpDiEjwoaefgddt3pKkg6Z/DevLinks-•-Projeto-Discover-(Community)?node-id=10%3A620&mode=dev)
 
 ## :memo: Licença
 
