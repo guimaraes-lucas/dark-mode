@@ -7,15 +7,15 @@
 ## Tecnologias
 
     Esse projeto foi desenvolvido em:
-    <br>
+    
     - HTML
-    <br>
+ 
     - CSS
-    <br>
+
     - JavaScript
-    <br>
+
     - Git e Github
-    <br>
+
     - Figma
 
 ## Projeto
