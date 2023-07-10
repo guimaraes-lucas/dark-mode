@@ -1,4 +1,4 @@
-<h1 align="Center"> Dark mode </h1>
+<h1 align="Center"> Dev Links </h1>
 
 <p align="Center">
     Projeto do Discover da Rocketseat
